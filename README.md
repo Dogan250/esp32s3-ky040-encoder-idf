@@ -1,7 +1,7 @@
 
 # ESP32-S3 KY-040 Encoder Testi (ESP-IDF)
 
-Arduino IDE'den çıkıp biraz daha işin mutfağına, gerçek firmware tarafına gireyim dedim ve ESP-IDF + FreeRTOS ile ilk denememi yaptım. Elimdeki ESP32-S3'e KY-040 döner butonu bağlayıp sağa sola dönüşleri ve ortadaki tuşa basılma durumunu terminalden okudum.
+Arduino IDE'den çıkıp biraz daha sektörün istediği, gerçek firmware tarafına girdim ve ESP-IDF + FreeRTOS ile ilk denememi yaptım. Elimdeki ESP32-S3'e KY-040 döner butonu bağlayıp sağa sola dönüşleri ve ortadaki tuşa basılma durumunu terminalden okudum.
 
 ## Neler Yaptım?
 * ESP-IDF ortamını kurup hazır `delay()` yerine işlemciyi kilitlemeyen `vTaskDelay` kullandım.
