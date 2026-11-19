@@ -1,5 +1,5 @@
 
-# ESP32-S3 KY-040 Encoder Testi (ESP-IDF)
+# ESP32-S3 KY-040 Encoder Testi (Firmware ve FreeRTOS) (ESP-IDF)
 
 Arduino IDE'den çıkıp biraz daha sektörün istediği, gerçek firmware tarafına girdim ve ESP-IDF + FreeRTOS ile ilk denememi yaptım. Elimdeki ESP32-S3'e KY-040 döner butonu bağlayıp sağa sola dönüşleri ve ortadaki tuşa basılma durumunu terminalden okudum.
 
